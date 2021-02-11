@@ -1,0 +1,8 @@
+colorama==0.4.4
+frida==12.4.7
+frida-tools==1.0.0
+parsec==3.7
+prompt-toolkit==1.0.18
+Pygments==2.7.4
+six==1.15.0
+wcwidth==0.2.5
